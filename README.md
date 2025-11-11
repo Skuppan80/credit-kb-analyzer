@@ -1,6 +1,6 @@
 # Credit Knowledge Base Analyzer
 
-**Learning Project:** Understanding embeddings, chunking strategies, and vector databases for AI engineering interviews.
+**Learning Project:** Understanding embeddings, chunking strategies, and vector databases.
 
 ## 🎯 Objectives
 
@@ -62,6 +62,4 @@ Coming in next steps...
 - Sentence Transformers guide
 - Vector database best practices
 
----
 
-**Status:** Step 0 - Planning ✅
