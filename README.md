@@ -62,6 +62,4 @@ Coming in next steps...
 - Sentence Transformers guide
 - Vector database best practices
 
----
 
-**Status:** Step 0 - Planning ✅
