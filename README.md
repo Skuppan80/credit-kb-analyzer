@@ -79,3 +79,37 @@ ANTHROPIC_API_KEY=your-key-here
 3. Get your key from: https://console.anthropic.com/settings/keys
 
 4. Verify: `python verify_setup.py`
+
+---
+
+## 🔑 Environment Setup
+
+### Step 1: Create .env file
+```bash
+# In the project root directory
+cat > .env << 'ENVEOF'
+ANTHROPIC_API_KEY=your-key-here
+LOG_LEVEL=INFO
+ENVEOF
+```
+
+### Step 2: Add your API key
+
+1. Get your key from: https://console.anthropic.com/settings/keys
+2. Open `.env` in a text editor
+3. Replace `your-key-here` with your actual API key
+4. Save the file
+
+### Step 3: Verify
+```bash
+python verify_setup.py
+```
+
+Expected output:
+```
+✅ API Key - Configured
+🎉 All core dependencies installed and configured!
+```
+
+⚠️ **IMPORTANT:** Never commit the `.env` file. It's already in `.gitignore`.
+
