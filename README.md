@@ -63,3 +63,19 @@ Coming in next steps...
 - Vector database best practices
 
 
+
+## 🔑 API Key Setup
+
+1. Create a `.env` file in the project root:
+```bash
+touch .env
+```
+
+2. Add your Anthropic API key:
+```
+ANTHROPIC_API_KEY=your-key-here
+```
+
+3. Get your key from: https://console.anthropic.com/settings/keys
+
+4. Verify: `python verify_setup.py`
