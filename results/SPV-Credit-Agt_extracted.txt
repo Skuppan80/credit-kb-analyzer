@@ -1,0 +1,1655 @@
+EXECUTION COPY
+CREDIT AGREEMENT
+among
+TALF LLC,
+as Borrower,
+FEDERAL RESERVE BANK OF NEW YORK,
+as Controlling Party,
+FEDERAL RESERVE BANK OF NEW YORK,
+as the Senior Lender
+and
+UNITED STATES DEPARTMENT OF THE TREASURY,
+as the Subordinated Lender
+Dated as of March 3, 2009
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+TABLE OF CONTENTS
+PAGE
+ARTICLE 1
+DEFINITIONS
+Section 1.01. Defined Terms..................................................................................1
+Section 1.02. Other Definitional Provisions........................................................10
+Section 1.03. Consent Rights of Subordinated Lender........................................10
+ARTICLE 2
+AMOUNT AND TERMS OF COMMITMENTS
+Section 2.01. Commitments..................................................................................11
+Section 2.02. Requests for Loans.........................................................................11
+Section 2.03. Funding of Loans...........................................................................11
+Section 2.04. Repayment of Loans; Termination of Agreement..........................12
+Section 2.05. Interest Rates and Payment Dates.................................................12
+Section 2.06. Computation of Interest.................................................................13
+Section 2.07. Promissory Notes...........................................................................13
+ARTICLE 3
+PAYMENTS
+Section 3.01. Payments Generally.......................................................................14
+Section 3.02. Application of Proceeds.................................................................14
+ARTICLE 4
+REPRESENTATIONS AND WARRANTIES
+Section 4.01. Representations and Warranties of the Borrower.........................14
+Section 4.02. Representations and Warranties of the Lenders............................16
+ARTICLE 5
+CONDITIONS PRECEDENT
+Section 5.01. Conditions to Closing Date............................................................16
+Section 5.02. Conditions to Each Extension of Loans.........................................17
+ARTICLE 6
+AFFIRMATIVE COVENANTS
+Section 6.01. Financial Statements......................................................................19
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+Section 6.02. Other Information..........................................................................19
+Section 6.03. Payment of Obligations..................................................................19
+Section 6.04. Maintenance of Existence; Compliance.........................................19
+Section 6.05. Inspection of Property; Books and Records; Discussions.............20
+Section 6.06. Notices............................................................................................20
+Section 6.07. Deposits in Collateral Account; Proceeds.....................................20
+Section 6.08. Third Party Contracts....................................................................21
+Section 6.09. Use of Proceeds of Loans..............................................................21
+ARTICLE 7
+NEGATIVE COVENANTS
+Section 7.01. Indebtedness...................................................................................21
+Section 7.02. Liens...............................................................................................21
+Section 7.03. Fundamental Changes...................................................................21
+Section 7.04. Disposition of Property..................................................................22
+Section 7.05. Restricted Payments.......................................................................22
+Section 7.06. Investments.....................................................................................22
+Section 7.07. Limitations on Payments and Expenditures...................................22
+Section 7.08. Amendments to Transaction Documents........................................22
+Section 7.09. Limitations on Activities................................................................22
+Section 7.10. ERISA.............................................................................................23
+Section 7.11. Accounts.........................................................................................23
+Section 7.12. Formation of Subsidiaries..............................................................23
+ARTICLE 8
+EVENTS OF DEFAULT
+Section 8.01. Events of Default............................................................................23
+Section 8.02. Actionable Defaults........................................................................24
+ARTICLE 9
+MISCELLANEOUS
+Section 9.01. Amendments and Waivers..............................................................24
+Section 9.02. Notices............................................................................................25
+Section 9.03. No Waiver; Cumulative Remedies.................................................28
+Section 9.04. Survival of Representations and Warranties.................................28
+Section 9.05. Payment of Expenses and Taxes....................................................28
+Section 9.06. Successors and Assigns; Participations and Assignments.............30
+Section 9.07. Subordination.................................................................................31
+Section 9.08. Counterparts..................................................................................33
+Section 9.09. Severability....................................................................................34
+Section 9.10. Integration......................................................................................34
+Section 9.11. GOVERNING LAW........................................................................34
+Section 9.12. Submission to Jurisdiction; Waivers..............................................34
+ii
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+Section 9.13. Acknowledgements.........................................................................35
+Section 9.14. Confidentiality................................................................................35
+Section 9.15. WAIVERS OF JURY TRIAL...........................................................36
+Section 9.16. Limited Recourse...........................................................................36
+Section 9.17. Certain Tax Matters.......................................................................36
+Section 9.18. Additional Inspection Rights..........................................................36
+Section 9.19. Authority for Subordinated Loan Commitment..............................37
+iii
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+EXHIBITS:
+A Form of Administration Agreement
+B Form of Borrowing Request
+C Form of Security Agreement
+D Form of Closing Certificate
+E Form of Put Option Agreement
+iv
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+CREDIT AGREEMENT (this “Agreement”), dated as of March 3, 2009, among
+TALF LLC, a Delaware limited liability company (the “Borrower”), FEDERAL
+RESERVE BANK OF NEW YORK, in its capacity as Controlling Party, FEDERAL
+RESERVE BANK OF NEW YORK, as Senior Lender, and the UNITED STATES
+DEPARTMENT OF THE TREASURY, as Subordinated Lender.
+The parties hereto hereby agree as follows:
+ARTICLE 1
+DEFINITIONS
+Section 1.01. Defined Terms. As used in this Agreement, the terms listed in this
+Section 1.01 shall have the respective meanings set forth in this Section 1.01.
+“Actionable Default”: as defined in Section 8.02(a).
+“Administration Agreement”: the Administration Agreement to be entered into
+by the Borrower, the Managing Member and the Administrator, substantially in the form
+of Exhibit A.
+“Administrator”: The Bank of New York Mellon, in its capacity as
+“administrator” under the Administration Agreement, or any successor in such capacity.
+“Affiliate”: as to any Person, any other Person that, directly or indirectly, is in
+control of, is controlled by, or is under common control with, such Person. For purposes
+of this definition, “control” of a Person means the power, directly or indirectly, to direct
+or cause the direction of the management and policies of such Person, whether by
+contract or otherwise.
+“Agreement”: as defined in the preamble hereto.
+“Approved Disposition Plan”: a plan for Disposition of particular assets or of
+assets generally that shall have been approved in writing by both Lenders.
+“Available Senior Loan Commitment”: as of any date with respect to the
+Senior Loan Commitment, an amount equal to (i) the Senior Loan Commitment, minus (ii)
+the aggregate initial principal amount of all Senior Loans made before such date, minus
+(iii) the aggregate amount of all withdrawals of funds from the Cash Collateral Account
+pursuant to Section 5(d) of the Security Agreement made before such date.
+“Available Subordinated Loan Commitment”: as of any date with respect to
+the Subordinated Loan Commitment, an amount equal to (i) the Subordinated Loan
+Commitment, minus (ii) the aggregate initial principal amount of all Subordinated Loans
+made before such date.
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+“Borrower”: as defined in the preamble hereto.
+“Borrowing Request”: a written request by the Borrower for a Senior Loan or a
+Subordinated Loan, substantially in the form of Exhibit B.
+“Business Day”: a day other than a Saturday, Sunday, a Federal holiday or other
+day on which commercial banks in New York City are authorized or required by law to
+close.
+“Capital Stock”: any and all shares, interests, participations or other equivalents
+(however designated) of capital stock of a corporation, any and all equivalent ownership
+interests in a Person (other than a corporation) and any and all warrants, rights or options
+to purchase any of the foregoing.
+“Cash Collateral Account”: as defined in the Security Agreement.
+“Closing Date”: the date on which the conditions precedent set forth in Section
+5.01 shall have been satisfied (or waived in accordance with Section 9.01).
+“Collateral”: all property of the Borrower, now owned or hereafter acquired,
+upon which a Lien is purported to be created by any Security Document.
+“Collateral Account”: as defined in the Security Agreement.
+“Collateral Account Control Agreement”: the Collateral Account Control
+Agreement to be entered into by the Borrower, the Collateral Agent, the Lenders and the
+Controlling Party, substantially in the form of Exhibit A to the Security Agreement.
+“Collateral Agent”: The Bank of New York Mellon, in its capacity as “collateral
+agent” under the Security Agreement, or any successor in such capacity.
+“Commitment”: the Senior Loan Commitment or the Subordinated Loan
+Commitment, as the context may require.
+“Contractual Obligation”: as to any Person, any provision of any security
+issued by such Person or of any agreement, instrument or other undertaking to which
+such Person is a party or by which it or any of its property is bound.
+“Contingent Interest”: as defined in Section 2.05(b).
+“Controlling Party”: Federal Reserve Bank of New York; provided that at all
+times on and after the Senior Obligations Payoff Date, “Controlling Party” shall mean the
+United States Department of the Treasury.
+“Costs and Expenses”: as defined in the Security Agreement.
+2
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+“Default”: any of the events specified in Article 8, whether or not any
+requirement for the giving of notice, the lapse of time, or both, has been satisfied.
+“Disposition”: with respect to any property, any sale, lease, sale and leaseback,
+assignment, conveyance, transfer or other disposition thereof. The terms “Dispose” and
+“Disposed of” shall have correlative meanings.
+“Dollars” and “$”: dollars in lawful currency of the United States.
+“EESA”: the Emergency Economic Stabilization Act of 2008 (Pub. L. 110-343,
+enacted October 1, 2008), as amended.
+“ERISA”: the Employee Retirement Income Security Act of 1974, as amended
+from time to time.
+“ERISA Affiliate”: any trade or business (whether or not incorporated) that,
+together with the Borrower, is treated as a single employer under Section 414 of the
+Internal Revenue Code of 1986, as amended.
+“Event of Default”: any of the events specified in Article 8; provided that any
+requirement for the giving of notice, the lapse of time, or both, has been satisfied.
+“Expense Reimbursement Account”: as defined in the Security Agreement.
+“Fee Letter” means that certain fee letter to be entered into among the Borrower,
+the Administrator and the Collateral Agent in respect of the fee arrangement for the
+Administrator and the Collateral Agent.
+“GAAP”: generally accepted accounting principles in the United States as in
+effect from time to time.
+“Governmental Authority”: any nation or government, any state or other
+political subdivision thereof, any agency, authority, instrumentality, regulatory body,
+court, central bank or other entity exercising executive, legislative, judicial, taxing,
+regulatory or administrative functions of or pertaining to government, any securities
+exchange and any self-regulatory organization.
+“Guarantee Obligation”: as to any Person (the “guaranteeing person”), any
+obligation, including a reimbursement, counterindemnity or similar obligation, of the
+guaranteeing Person that guarantees or in effect guarantees, or which is given to induce
+the creation of a separate obligation by another Person (including any bank under any
+letter of credit) that guarantees or in effect guarantees, any Indebtedness, leases,
+dividends or other obligations (the “primary obligations”) of any other third Person (the
+“primary obligor”) in any manner, whether directly or indirectly, including any
+obligation of the guaranteeing person, whether or not contingent, (i) to purchase any such
+primary obligation or any property constituting direct or indirect security therefor, (ii) to
+advance or supply funds (1) for the purchase or payment of any such primary obligation
+3
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+or (2) to maintain working capital or equity capital of the primary obligor or otherwise to
+maintain the net worth or solvency of the primary obligor, (iii) to purchase property,
+securities or services primarily for the purpose of assuring the owner of any such primary
+obligation of the ability of the primary obligor to make payment of such primary
+obligation or (iv) otherwise to assure or hold harmless the owner of any such primary
+obligation against loss in respect thereof; provided that the term “Guarantee Obligation”
+shall not include endorsements of instruments for deposit or collection in the ordinary
+course of business. The amount of any Guarantee Obligation of any guaranteeing person
+shall be deemed to be the lower of (a) an amount equal to the stated or determinable
+amount of the primary obligation in respect of which such Guarantee Obligation is made
+and (b) the maximum amount for which such guaranteeing person may be liable pursuant
+to the terms of the instrument embodying such Guarantee Obligation, unless such
+primary obligation and the maximum amount for which such guaranteeing person may be
+liable are not stated or determinable, in which case the amount of such Guarantee
+Obligation shall be such guaranteeing person’s maximum reasonably anticipated liability
+in respect thereof as determined by the Borrower in good faith.
+“Indebtedness”: of any Person at any date, without duplication, (a) all
+indebtedness of such Person for borrowed money, (b) all obligations of such Person for
+the deferred purchase price of property or services (other than current trade payables
+incurred in the ordinary course of such Person’s business), (c) all obligations of such
+Person evidenced by notes, bonds, debentures or other similar instruments, (d) all
+indebtedness created or arising under any conditional sale or other title retention
+agreement with respect to property acquired by such Person (even though the rights and
+remedies of the seller or lender under such agreement in the event of default are limited
+to repossession or sale of such property), (e) all capital lease obligations of such Person,
+(f) all obligations of such Person, contingent or otherwise, as an account party or
+applicant under or in respect of acceptances, letters of credit, surety bonds or similar
+arrangements, (g) the liquidation value of all redeemable preferred Capital Stock of such
+Person, (h) all Guarantee Obligations of such Person in respect of obligations of the kind
+referred to in clauses (a) through (g) above and (i) all obligations of the kind referred to
+in clauses (a) through (h) above secured by (or for which the holder of such obligation
+has an existing right, contingent or otherwise, to be secured by) any Lien on property
+(including accounts and contract rights) owned by such Person, whether or not such
+Person has assumed or become liable for the payment of such obligation. The
+Indebtedness of any Person shall include the Indebtedness of any other entity (including
+any partnership in which such Person is a general partner) to the extent such Person is
+liable therefor as a result of such Person’s ownership interest in or other relationship with
+such entity, except to the extent the terms of such Indebtedness expressly provide that
+such Person is not liable therefor.
+“Investment Manager”: the Person appointed to act as “investment manager”
+under the Investment Manager Agreement (if any), which Person the Subordinated
+Lender has not objected to after five Business Days’ prior written notice, together with
+such Person’s Affiliates, or any successor investment manager in such capacity.
+4
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+“Investment Manager Agreement”: the agreement, if any, entered into after the
+Closing Date between the Investment Manager and Federal Reserve Bank of New York,
+with the consent of the Subordinated Lender (provided, that (x) such consent shall not be
+unreasonably withheld and (y) the Subordinated shall be deemed to have consented if it
+shall not have notified the Senior Lender within five Business Days after its receipt of a
+copy of the proposed Investment Manager Agreement that it does not consent thereto)
+regarding the management of the Collateral, and any amended and restated, successor or
+replacement agreement entered into by the Investment Manager and Federal Reserve
+Bank of New York regarding the management of the Collateral; provided that any such
+agreement shall be assigned to, or terminable by, the Subordinated Lender on the Senior
+Obligations Payoff Date.
+“Investments”: for any Person, (a) Capital Stock, bonds, notes, debentures or
+other securities of any other Person or any agreement to acquire any Capital Stock, bonds,
+notes, debentures or other securities of any other Person (including any “short sale” or
+any sale of any securities at a time when such securities are not owned by the Person
+entering into such sale); or (b) deposits, advances, loans, capital contributions or other
+extensions of credit (by way of guaranty or otherwise) made to any other Person
+(including purchases of property from another Person subject to an understanding or
+agreement, contingent or otherwise, to resell such property to such Person).
+“Lenders”: the collective reference to the Senior Lender and the Subordinated
+Lender.
+“LIBOR” means, for any period from and including the last Payment
+Determination Date (if there is one) or the Closing Date (if there is none) to but excluding
+the next Payment Determination Date (each such period, an “Interest Period”), the rate
+per annum for one-month deposits in Dollars which appears on the Bloomberg Screen
+BTMM Page under the heading “LIBOR FIX BBAM” as of 11:00 a.m., London time, on
+the second Business Day preceding the first day of such Interest Period; provided, that if
+such rate does not appear on the Bloomberg Screen BTMM Page, “LIBOR” shall be the
+interest rate per annum determined by the Controlling Party (on the basis of quotes from
+two or more major international banks) to be representative of the rates per annum at
+which one-month deposits in Dollars are offered by major international banks to other
+major international banks in the London interbank market as of the second Business Day
+preceding the first day of such Interest Period, and notified to the Borrower and the
+Lenders two Business Days prior to the first day of such Interest Period.
+“Lien”: any mortgage, pledge, hypothecation, assignment, deposit arrangement,
+encumbrance, lien (statutory or other), charge or other security interest or any preference,
+priority or other security agreement or preferential arrangement of any kind or nature
+whatsoever (including any conditional sale or other title retention agreement and any
+capital lease having substantially the same economic effect as any of the foregoing).
+“LLC Agreement”: the limited liability company agreement of TALF LLC,
+executed February 25, 2009 and effective as of February 4, 2009.
+5
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+“Loan Documents”: this Agreement, the Security Documents, the Promissory
+Notes and any amendment, waiver, supplement or other modification to any of the
+foregoing.
+“Loan Proceeds Account”: as defined in the Security Agreement.
+“Loans”: the collective reference to the Senior Loans and the Subordinated
+Loans.
+“Managing Member”: as defined in the LLC Agreement. The Managing
+Member on the Closing Date is Federal Reserve Bank of New York.
+“Material Adverse Effect”: a material adverse effect on the Borrower and its
+assets or upon the rights and remedies of either of the Lenders under the Transaction
+Documents.
+“Maturity Date”: the tenth anniversary of the Closing Date; provided, that the
+date by which final repayment of the Senior Loans and the Subordinated Loans must
+occur may be extended by the Controlling Party with the consent of the Subordinated
+Lender in accordance with the provisos to Sections 2.04(b) and 2.04(c).
+“Membership Interest”: the limited liability company membership interest in
+the Borrower.
+“MLSA”: that certain Master Loan and Security Agreement by and among
+Federal Reserve Bank of New York, as lender, The Bank of New York Mellon, as
+administrator and custodian, and the other financial institutions party thereto, in
+connection with Federal Reserve Bank of New York’s Term Asset-Backed Securities
+Loan Facility.
+“Obligations”: collectively, (i) the unpaid principal of and interest (including
+Contingent Interest, interest accruing after the maturity of the Loans and interest accruing
+after the filing of any petition in bankruptcy, or the commencement of any insolvency,
+reorganization or like proceeding, relating to the Borrower, whether or not a claim for
+post-filing or Post-Petition Amount is allowed in such proceeding) on the Loans and (ii)
+all other obligations and liabilities of the Borrower to the Lenders, the Controlling Party,
+the Collateral Agent, the Administrator and the Investment Manager, whether direct or
+indirect, absolute or contingent, due or to become due, or now existing or hereafter
+incurred, which may arise under, out of, or in connection with, this Agreement, any other
+Transaction Document or any other document made, delivered or given in connection
+herewith or therewith, whether on account of principal, interest, fees, indemnities, costs,
+expenses (including all fees, charges and disbursements of counsel to the Lenders, the
+Controlling Party, the Collateral Agent, the Administrator and the Investment Manager)
+that are required to be paid by the Borrower pursuant hereto or pursuant to the other
+Transaction Documents or otherwise.
+6
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+“Payment Calculation Report”: as defined in the Security Agreement.
+“Payment Date”: the fourth Business Day of each calendar month, or such other
+day as may be specified by the Controlling Party or its designee, pursuant to a Proper
+Instruction; provided that unless the Subordinated Lender shall otherwise consent, there
+shall be a single Payment Date in each calendar month.
+“Payment Determination Date”: the third Business Day prior to each Payment
+Date.
+“PBGC”: the Pension Benefit Guaranty Corporation established pursuant to
+Subtitle A of Title IV of ERISA (or any successor).
+“Permitted Liens”: (i) customary rights of setoff and similar Liens in favor of
+depositary institutions, (ii) Liens imposed by law for taxes that are not yet due or that are
+being contested in good faith by appropriate proceedings, (iii) other Liens arising by
+operation of law, and (iv) other Liens granted by the Borrower at the written instruction
+of the Controlling Party with the consent of the Subordinated Lender.
+“Person”: an individual, partnership, corporation, limited liability company,
+business trust, joint stock company, trust, unincorporated association, joint venture,
+Governmental Authority or other entity of whatever nature.
+“Plan”: any employee benefit plan as defined in Section 3(3) of ERISA,
+including any employee welfare benefit plan (as defined in Section 3(1) of ERISA), any
+employee pension benefit plan (as defined in Section 3(2) of ERISA), and any plan which
+is both an employee welfare benefit plan and an employee pension benefit plan.
+“Post-Petition Amount” means any interest or amount that accrues after the
+commencement of any case, proceeding or other action relating to the bankruptcy,
+insolvency or reorganization of the Borrower (or would accrue but for the operation of
+applicable bankruptcy or insolvency laws), whether or not such interest or amount is
+allowed or allowable as a claim in any such proceeding.
+“Proceeds”: as defined in the Security Agreement.
+“Promissory Note”: as defined in Section 2.07 hereof.
+“Proper Instruction”: as defined in the Security Agreement.
+“Purchase”: as defined in the Put Option Agreement.
+“Put Option Agreement”: the Put Option Agreement to be entered into by the
+Borrower, as Buyer, and Federal Reserve Bank of New York, as Seller, substantially in
+the form of Exhibit E.
+7
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+“Regulation U”: Regulation U of the Board of Governors of the Federal Reserve
+System as in effect from time to time.
+“Related Parties”: with respect to any specified Person, such Person’s Affiliates
+and the respective directors, officers, employees, agents, advisors, and controlling
+persons of such Person and such Person’s Affiliates.
+“Representatives”: as defined in Section 9.14.
+“Requirement of Law”: as to any Person, the organizational or governing
+documents of such Person (including, with respect to the Borrower, the LLC Agreement),
+and any law, treaty, rule or regulation or determination of an arbitrator or a court or other
+Governmental Authority, in each case applicable to or binding upon such Person or any
+of its property or to which such Person or any of its property is subject.
+“Responsible Officer”: with respect to the Administrator, means any officer of
+the Administrator with direct responsibility for the administration of the transactions and
+agreements contemplated by this Agreement and the other Transaction Documents and
+the Collateral.
+“Secured Parties”: as defined in the Security Agreement.
+“Security Agreement”: the Security and Intercreditor Agreement to be entered
+into by the Borrower, the Collateral Agent, the Lenders and the Controlling Party,
+substantially in the form of Exhibit C.
+“Security Documents”: the collective reference to the Security Agreement, the
+Collateral Account Control Agreement and all other security documents hereafter
+delivered to the Collateral Agent granting a Lien on any property of the Borrower to
+secure the Obligations.
+“Senior Lender”: Federal Reserve Bank of New York, and any assignee thereof
+permitted pursuant to Section 9.06.
+“Senior Loan”: as defined in Section 2.01.
+“Senior Loan Availability Period”: the period from and including the Senior
+Loan Commitment Availability Date to but excluding the earliest of (i) the Maturity Date,
+(ii) the TALF Termination Date and (iii) the date of termination of the Senior Loan
+Commitment pursuant to Article 8; provided that the Controlling Party may extend the
+Senior Loan Availability Period from time to time with the consent of the Subordinated
+Lender.
+“Senior Loan Commitment”: the obligation of the Senior Lender to make
+Senior Loans to the Borrower in an aggregate principal amount not to exceed
+$180,000,000,000.
+8
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+“Senior Loan Commitment Availability Date”: the date on which the
+aggregate initial principal amount of Subordinated Loans made by the Subordinated
+Lender (excluding any Contingent Interest) equals $20,000,000,000.
+“Senior Obligations”: the unpaid principal of and interest on (including interest
+accruing after the maturity of the Senior Loans and interest accruing after the filing of
+any petition in bankruptcy, or the commencement of any insolvency, reorganization or
+like proceeding, relating to the Borrower, whether or not a claim for post-filing or Post-
+Petition Amount is allowed in such proceeding) the Senior Loans and all other
+obligations and liabilities of the Borrower to the Senior Lender (other than Contingent
+Interest).
+“Senior Obligations Payoff Date”: the first date on which (x) all Senior
+Obligations have been paid in full and (y) (i) the TALF Termination Date has occurred or
+(ii) the Available Senior Loan Commitment is equal to zero.
+“Subordinated Lender”: United States Department of the Treasury, or any
+assignee thereof permitted pursuant to Section 9.06.
+“Subordinated Loan”: as defined in Section 2.01.
+“Subordinated Loan Availability Period”: the period from and including the
+Closing Date to but excluding the earliest of (i) the Maturity Date, (ii) the TALF
+Termination Date and (iii) the date of termination of the Subordinated Loan Commitment
+pursuant to Article 8; provided that the Subordinated Loan Availability Period may be
+extended with the consent of the Subordinated Lender; provided further that the
+Subordinated Loan Availability Period shall not extend past the earliest of (x) the expiry
+of the Senior Loan Availability Period, (y) the Maturity Date and (z) the date of
+termination of the Subordinated Loan Commitment pursuant to Article 8.
+“Subordinated Loan Commitment”: the obligation of the Subordinated Lender
+to make Subordinated Loans to the Borrower in an aggregate principal amount not to
+exceed $20,000,000,000.
+“Subsidiary”: as to any Person, a corporation, partnership, limited liability
+company or other entity of which shares of stock or other ownership interests having
+ordinary voting power (other than stock or such other ownership interests having such
+power only by reason of the happening of a contingency) to elect a majority of the board
+of directors or other managers of such corporation, partnership or other entity that are at
+the time owned, or the management of which is otherwise controlled, directly or
+indirectly through one or more intermediaries, or both, by such Person.
+“TALF Loans”: the loans made by Federal Reserve Bank of New York pursuant
+to the MLSA.
+9
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+“TALF Termination Date” means January 31, 2013 or such later date as
+designated by the Controlling Party with the consent of the Subordinated Lender.
+“Transaction Documents” the Loan Documents, the Put Option Agreement, the
+Administration Agreement, the Fee Letter, the Investment Manager Agreement, the LLC
+Agreement and each other servicing and custodial agreement, in each case in effect from
+time to time with the Borrower as a party thereto in respect of the transactions
+contemplated by the foregoing documents, all schedules, exhibits and annexes thereto, all
+side letters and agreements affecting the terms thereof or entered into in connection
+therewith, all assignments and other instruments or documents entered into in connection
+with the foregoing and any amendment, waiver, supplement or other modification to any
+of the foregoing.
+“United States”: the United States of America.
+“Waterfall”: the order of payments set forth in Section 5(b) of the Security
+Agreement.
+Section 1.02. Other Definitional Provisions.
+(a) As used herein and in the other Loan Documents, and any certificate or
+other document made or delivered pursuant hereto or thereto, (i) accounting terms shall
+have the respective meanings given to them under GAAP, (ii) the words “include”,
+“includes” and “including” shall be deemed to be followed by the phrase “without
+limitation”, (iii) the word “incur” shall be construed to mean incur, create, issue, assume,
+become liable in respect of or suffer to exist (and the words “incurred” and “incurrence”
+shall have correlative meanings), (iv)) the words “asset” and “property” shall be
+construed to have the same meaning and effect and to refer to any and all tangible and
+intangible assets and properties, including cash, Capital Stock, securities, revenues,
+accounts, leasehold interests and contract rights, and (v) references to agreements or other
+Contractual Obligations shall, unless otherwise specified, be deemed to refer to such
+agreements or Contractual Obligations as amended, supplemented, restated or otherwise
+modified from time to time, or any successor or replacement agreement which may be
+entered into from time to time, subject in each case to any applicable limitations specified
+herein or therein.
+(b) The words “hereof”, “herein” and “hereunder” and words of similar import,
+when used in this Agreement, shall refer to this Agreement as a whole and not to any
+particular provision of this Agreement, and Section, Schedule and Exhibit references are
+to this Agreement unless otherwise specified.
+(c) The meanings given to terms defined herein shall be equally applicable to
+both the singular and plural forms of such terms.
+Section 1.03. Consent Rights of Subordinated Lender. If at any time the United
+States Department of the Treasury is the Controlling Party, all consent rights reserved to
+10
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+the Subordinated Lender in this Agreement at such time shall instead be exercisable by
+the Senior Lender.
+ARTICLE 2
+AMOUNT AND TERMS OF COMMITMENTS
+Section 2.01. Commitments. Subject to the terms and conditions hereof, (a) the
+Senior Lender agrees to make term loans to the Borrower in Dollars from time to time
+during the Senior Loan Availability Period in an aggregate principal amount not to
+exceed the Senior Loan Commitment (each such loan, a “Senior Loan”) and (b) the
+Subordinated Lender agrees to make (i) a term loan to the Borrower on the Closing Date
+in the principal amount of $100,000,000 and (ii) additional term loans to the Borrower in
+Dollars during the Subordinated Loan Availability Period in an aggregate principal
+amount, when combined with the principal amount of the term loan made on the Closing
+Date pursuant to the preceding clause (i), not to exceed the Subordinated Loan
+Commitment (each of the loans described in the preceding clauses (i) and (ii), a
+“Subordinated Loan”).
+Section 2.02. Requests for Loans. To request a Loan, the Borrower shall notify
+the applicable Lender of such request by telephone not later than 11:00 a.m., New York
+City time, one Business Day before the date of the proposed borrowing. Each such
+telephonic Borrowing Request shall be confirmed promptly in writing via delivery of a
+Borrowing Request. Each such telephonic and written request for a Loan shall specify
+the following information:
+(i) the aggregate amount of such Loan (which in the case of the
+Subordinated Loan to be borrowed on the Closing Date, shall be $100,000,000;
+(ii) the date such Loan will be borrowed, which shall be a Business
+Day (provided, that not more than one Subordinated Loan may be borrowed on
+any Business Day); and
+(iii) the location and number of the account to which funds are to be
+disbursed.
+Section 2.03. Funding of Loans. (a) Each applicable Lender shall make each
+Loan to be made by it hereunder on the proposed date thereof by wire transfer of
+immediately available funds in Dollars by 2:00 p.m., New York City time, to the account
+specified by the Borrower.
+(b) Each Lender and the Controlling Party may maintain in accordance with its
+usual practice an account or accounts evidencing the Indebtedness of the Borrower to
+such Lender resulting from the Loan made by such Lender, including the amounts of
+principal and interest payable and paid to such Lender from time to time hereunder;
+provided that the failure of any Lender to maintain such accounts or any error therein
+11
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+shall not in any manner affect the obligation of the Borrower to repay the Loans in
+accordance with the terms of this Agreement and the Security Agreement.
+Section 2.04. Repayment of Loans; Termination of Agreement. (a) The Borrower
+shall make payments on account of the principal of the Loans on the dates and in the
+amounts required by the Waterfall. Amounts paid on account of the principal of the
+Loans may not be reborrowed.
+(b) The Borrower, so long as funds are available in accordance with the
+Waterfall, shall repay the remaining outstanding principal amount of the Senior Loans,
+together with all accrued and unpaid interest (other than Contingent Interest) and other
+amounts due thereon, on the Maturity Date, and pursuant to the requirements of the
+Waterfall (and solely to the extent funds are available in accordance with the Waterfall),
+the Borrower shall prepay the outstanding principal amount of the Senior Loans from
+time to time prior to the Maturity Date; provided that the Controlling Party may, with the
+consent of the Subordinated Lender, at any time and from time to time and
+notwithstanding the provisions of Section 9.01, extend the date of final repayment of the
+Senior Loans to any later date.
+(c) The Borrower, so long as funds are available in accordance with the
+Waterfall, shall repay the remaining outstanding principal amount of the Subordinated
+Loans, together with all accrued and unpaid interest and other amounts due thereon (other
+than Contingent Interest), on the Maturity Date, and pursuant to the requirements of the
+Waterfall (and solely to the extent funds are available in accordance with the Waterfall),
+the Borrower shall prepay the outstanding principal amount of the Subordinated Loans
+from time to time prior to the Maturity Date; provided that the Controlling Party may,
+with the consent of the Subordinated Lender, at any time and from time to time, extend
+the date of final repayment of the Subordinated Loans to any later date.
+(d) Notwithstanding the foregoing and regardless of whether or not any
+Obligations remain outstanding, all Obligations then due and owing shall be terminated
+and extinguished on the first date on which (x) (i) no Lender has any remaining
+commitment to make any Loans or (ii) the TALF Termination Date has occurred and (y)
+all Collateral has been fully liquidated and Disposed of and all proceeds thereof,
+including all amounts on deposit in the Collateral Account, have been distributed in
+accordance with the Waterfall (it being understood that for this purpose the Collateral
+shall be deemed to not have been fully liquidated unless and until all claims pursuant to
+Related Recourse Rights (as defined in the Put Option Agreement) which in the
+reasonable judgment of either Lender merit prosecution shall have been prosecuted to
+final resolution).
+Section 2.05. Interest Rates and Payment Dates. (a) The Senior Loans shall bear
+interest at a rate per annum equal to LIBOR plus 1.0%. The Subordinated Loans shall
+bear interest at a rate per annum equal to LIBOR plus 3.0%.
+12
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+(b) The Senior Loans and the Subordinated Loans shall also be entitled to
+additional contingent interest in amounts equal to any proceeds of the Collateral that are
+available for distribution pursuant to clause ninth of the Waterfall (“Contingent
+Interest”).
+(c) Interest (other than Contingent Interest) shall accrue on a daily basis during
+each Interest Period on the outstanding principal amount of each Loan at the rate set forth
+in Section 2.05(a) for such Interest Period, until the outstanding principal amount of each
+Loan together with all accrued and unpaid interest (other than Contingent Interest) is paid
+in full. Interest will be payable on the dates and in the amounts required by the Waterfall.
+(d) Accrued but unpaid interest on each Loan shall continue to accrue interest at
+the interest rate applicable to such Loan, and shall be compounded on a quarterly basis.
+Section 2.06. Computation of Interest. (a) Interest (other than Contingent Interest)
+payable pursuant hereto shall be calculated by the Collateral Agent on the basis of a 365-
+day year for the actual days elapsed. Any change in the interest rate on a Loan resulting
+from a change in LIBOR shall become effective as of the opening of business on the day
+on which such change becomes effective. The Collateral Agent shall, as part of each
+Payment Calculation Report, notify the Borrower, the Collateral Agent, the Investment
+Manager, the Lenders and the Controlling Party of the amount of interest accrued on the
+outstanding principal amount of each Loan during the preceding month and remaining
+unpaid immediately prior to each Payment Date.
+(b) Each determination of the interest rate and each calculation of the amount of
+accrued interest, in each case by the Collateral Agent pursuant to any provision of this
+Agreement, shall be conclusive and binding on the Borrower, the Lenders and the
+Controlling Party in the absence of manifest error.
+(c) All payments to be made by the Borrower in respect of the Loans shall be
+made in such amounts, without set-off or counterclaim, as may be necessary in order that
+every such payment (after deduction or withholding for or on account of any present or
+future taxes, levies, imposts, duties or other charges of whatever nature imposed by the
+jurisdiction in which the Borrower is organized or any political subdivision or taxing
+authority therein or thereof) shall not, as a result of any such deductions or withholdings,
+be less than the amounts otherwise specified to be paid under this Agreement. All
+payments under the Loans will be made by the Borrower without any deduction or
+withholding for or on account of any tax unless such deduction or withholding is required
+by any applicable law, as modified by the practice of any relevant governmental revenue
+authority, then in effect.
+Section 2.07. Promissory Notes. Any Lender may request that Loans made by it
+hereunder, or the Contingent Interest due to it hereunder, be evidenced by a promissory
+note. In such event, the Borrower shall execute and deliver to such Lender a promissory
+note payable to such Lender and its registered assigns and in form and substance
+reasonably acceptable to such Lender (each, a “Promissory Note”).
+13
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+ARTICLE 3
+PAYMENTS
+Section 3.01. Payments Generally. Notwithstanding anything to the contrary
+contained in this Agreement or in any other Transaction Document, the Borrower shall
+not make any payments on account of principal, interest, Contingent Interest, fees or
+otherwise in respect of the Loans other than in accordance with the Waterfall.
+Section 3.02. Application of Proceeds. All amounts available in the Collateral
+Account (other than amounts available in the Loan Proceeds Account) as of each
+Payment Determination Date shall be distributed by the Collateral Agent on the first
+following Payment Date in accordance with a Payment Calculation Report delivered to,
+and approved by, the Controlling Party in accordance with the Administration Agreement
+prior to such Payment Date, in accordance with the Waterfall.
+ARTICLE 4
+REPRESENTATIONS AND WARRANTIES
+Section 4.01. Representations and Warranties of the Borrower. The Borrower
+hereby represents and warrants to the Lenders, as of the Closing Date and the date of
+each Loan, that:
+(a) Existence; Compliance with Law. The Borrower (i) is a limited liability
+company, duly organized, validly existing and in good standing under the laws of the
+State of Delaware, (ii) has the power and authority, and the legal right, to own its assets
+and to transact the activities in which it is permitted to engage, (iii) is duly qualified as a
+foreign organization and in good standing under the laws of each jurisdiction where the
+character of its property, the nature of its business and the performance of its obligations
+made such qualification necessary and (iv) is in compliance in all material respects with
+all Requirements of Law.
+(b) Power; Authorization; Enforceable Obligations. The Borrower has the
+power and authority, and the legal right, to make, deliver and perform the Transaction
+Documents to which it is, or will become, a party and to borrow the Loans hereunder.
+The Borrower has taken all necessary organizational action to authorize the execution,
+delivery and performance of the Transaction Documents to which it is, or will become, a
+party and to authorize the borrowings of the Loans on the terms and conditions of this
+Agreement. No consent or authorization of, filing with, notice to or other act by or in
+respect of, any Governmental Authority or any other Person is required in connection
+with the transactions contemplated under the Transaction Documents and the borrowings
+hereunder or with the execution, delivery, performance, validity or enforceability of this
+Agreement or any of the Transaction Documents to which the Borrower is, or will
+become, a party, except (i) consents, authorizations, filings and notices as have been
+obtained or made and are in full force and effect and (ii) the filings referred to in the
+Security Documents. Each Transaction Document to which the Borrower is, or will
+14
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+become, a party has been duly executed and delivered on behalf of the Borrower. This
+Agreement constitutes, and each other Transaction Document to which the Borrower is,
+or will become, a party, upon execution, will constitute, a legal, valid and binding
+obligation of the Borrower, enforceable against the Borrower in accordance with its terms,
+except as enforceability may be limited by applicable bankruptcy, insolvency,
+reorganization, moratorium or similar laws affecting the enforcement of creditors’ rights
+generally and by general equitable principles (whether enforcement is sought by
+proceedings in equity or at law).
+(c) No Legal Bar. The execution, delivery and performance of this Agreement
+and the other Transaction Documents to which the Borrower is, or will become, a party,
+the borrowings hereunder and the use of the proceeds thereof will not violate any
+Requirement of Law or any Contractual Obligation of the Borrower and will not result in,
+or require the creation or imposition of any Lien on any of its properties, assets or
+revenues pursuant to any Requirement of Law or any such Contractual Obligation (other
+than the Liens created by the Security Documents).
+(d) Litigation. As of the Closing Date, no litigation, investigation or
+proceeding of, or before, any arbitrator or Governmental Authority is pending or, to the
+knowledge of the Borrower, threatened by or against the Borrower or against any of its
+properties, assets or revenues.
+(e) No Defaults. No Actionable Default has occurred and is continuing. No
+other Default known to the Borrower has occurred and is continuing except any such
+Default as to which the Borrower shall have notified the Lenders pursuant to Section
+6.06(a).
+(f) Federal Regulations. No part of the proceeds of the Loans will be used for
+“buying” or “carrying” any “margin stock” within the respective meanings of each of the
+quoted terms under Regulation U as now and from time to time hereafter in effect for any
+purpose that violates the provisions of the Regulations of the Board of Governors of the
+Federal Reserve System.
+(g) ERISA. The Borrower neither maintains, participates in, or is otherwise
+deemed an “employer” (as defined in Section 3(5) of ERISA) with respect to, any Plans,
+and neither the Borrower nor any ERISA Affiliate has any liability to the PBGC under
+ERISA.
+(h) Investment Company Act. The Borrower is not required to be registered as
+an “investment company” under the Investment Company Act of 1940, as amended.
+(i) Subsidiaries. The Borrower has no Subsidiaries.
+(j) Use of Proceeds. The proceeds of the Loans shall be used solely for the
+purpose of financing the acquisition of assets (including by assignment) pursuant to the
+Put Option Agreement; provided that (x) proceeds of Loans shall be held in the Loan
+15
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+Proceeds Account pending such use and (y) the proceeds of the Subordinated Loan
+borrowed on the Closing Date shall be applied in the manner set forth in Section 6.07.
+(k) Accuracy of Information, Etc. No statement or information contained in
+this Agreement, any other Transaction Document or any other document, certificate or
+statement furnished by or on behalf of the Borrower to the Lenders or the Controlling
+Party, or any of them, for use in connection with the transactions contemplated by this
+Agreement or the other Transaction Documents, contained as of the date such statement,
+information, document or certificate was so furnished, any untrue statement of a material
+fact or omitted to state a material fact necessary to make the statements contained herein
+or therein not misleading.
+(l) Activities. The Borrower has not engaged in activities since its formation
+other than those incidental to its formation and other appropriate actions incidental to the
+Transaction Documents.
+Section 4.02. Representations and Warranties of the Lenders. Each Lender
+hereby represents and warrants to each other and to the Borrower that (x) such Lender
+has the power and authority, and the legal right, to make, deliver and perform this
+Agreement and has taken all necessary action to authorize the execution, delivery and
+performance of this Agreement and the extensions of credit to be made by it hereunder,
+(y) this Agreement has been duly executed and delivered on behalf of such Lender and (z)
+this Agreement constitutes a legal, valid and binding obligation of such Lender,
+enforceable against such Lender in accordance with its terms, except as enforceability
+may be limited by applicable bankruptcy, insolvency, reorganization, moratorium or
+similar laws affecting the enforcement of creditors’ rights generally and by general
+equitable principles (whether enforcement is sought by proceedings in equity or at law).
+ARTICLE 5
+CONDITIONS PRECEDENT
+Section 5.01. Conditions to Closing Date. The agreement of each Lender to
+make the Loans hereunder shall not become effective until the date on which each of the
+following conditions has been satisfied:
+(a) Agreements; Security Documents. The Lenders and the Controlling Party
+shall have received (i) this Agreement, executed and delivered by each other party hereto
+and (ii) each of the other Loan Documents, the Put Option Agreement and the
+Administration Agreement, executed and delivered by each other party thereto.
+(b) Closing Certificate; Certified Certificate of Formation; Good Standing
+Certificates. The Lenders and the Controlling Party shall have received (i) a certificate of
+the Borrower, dated the Closing Date, substantially in the form of Exhibit D, with
+appropriate insertions and attachments, including incumbency, the certificate of
+formation certified by the Secretary of State of the State of Delaware and the LLC
+16
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+Agreement, and (ii) a long form good standing certificate for the Borrower from the
+Secretary of State of the State of Delaware.
+(c) Promissory Notes. The Subordinated Lender shall have received
+Promissory Notes evidencing (i) the Subordinated Loans to be made by it hereunder and
+(ii) the Contingent Interest due to it hereunder.
+(d) Legal Opinions. Each Lender and the Controlling Party shall have received
+the following executed legal opinions:
+(i) the legal opinion of Davis Polk & Wardwell, special counsel to the
+Borrower as to certain matters of New York law;
+(ii) the legal opinion of Morris, Nichols, Arsht & Tunnell LLP,
+counsel to the Borrower, as to certain matters of Delaware law; and
+(iii) the legal opinion of Emmet, Marvin & Martin, LLP, counsel to
+The Bank of New York Mellon.
+Each such legal opinion shall cover such matters incident to the transactions
+contemplated by this Agreement as each Lender or the Controlling Party may reasonably
+require.
+(e) Filings, Registrations and Recordings. Each document (including any
+Uniform Commercial Code financing statement) required by the Security Documents or
+under law or reasonably requested by the Controlling Party to be filed, registered or
+recorded in order to create in favor of the Collateral Agent, for the benefit of the Secured
+Parties, a perfected Lien on the Collateral described therein, prior and superior in right to
+any other Person, shall be in proper form for filing, registration or recordation.
+(f) Representations and Warranties. Each of the representations and
+warranties made by the Borrower in the Loan Documents shall be true and correct on and
+as of the Closing Date as if made on and as of the Closing Date.
+(g) No Default. No Default or Event of Default shall have occurred and be
+continuing on the Closing Date.
+Section 5.02. Conditions to Each Extension of Loans. The agreement of each
+Lender to make each Loan requested to be made by it is subject to the satisfaction, prior
+to or concurrently with the making of such Loan, of the following conditions precedent:
+(a) Borrowing Request. The applicable Lender shall have received a
+Borrowing Request.
+(b) Availability. (i) With respect to any request for a Senior Loan, the
+aggregate principal amount of such requested Senior Loan shall not exceed the Available
+Senior Loan Commitment and (ii) with respect to any request for a Subordinated Loan,
+17
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+the aggregate principal amount of such requested Subordinated Loan shall not exceed the
+Available Subordinated Loan Commitment. For avoidance of doubt, the Borrower shall
+not be permitted to request the borrowing of a Senior Loan unless the Senior Loan
+Commitment Availability Date shall have occurred.
+(c) Representations and Warranties. Each of the representations and
+warranties made by the Borrower in the Loan Documents shall be true and correct on and
+as of the date of the Borrowing Request as if made on and as of the date of such
+Borrowing Request (except to the extent any such representation and warranty by its
+terms is made only as of an earlier date, in which case such representation and warranty
+shall be true and correct as of such earlier date), except to the extent that the inaccuracy
+of the foregoing could not, in the aggregate, reasonably be expected to have a Material
+Adverse Effect.
+(d) No Default. No Actionable Default shall have occurred and be continuing
+on the date the Borrowing Request has been made or after giving effect to the borrowings
+to be made on the date the Borrowing Request has been made. No other Default known
+to the Borrower shall have occurred and be continuing except any such Default as to
+which the Borrower shall have notified the Lenders pursuant to Section 6.06(a).
+(e) Put Option Agreement. Subject to the exceptions below, the proceeds of
+such Loan will be used within one Business Day of the making of such Loan to purchase
+Purchased Assets. This condition is subject to the exceptions that (i) $15,750,000 of the
+proceeds of the Subordinated Loan to be made on the Closing Date shall be deposited in
+the Expense Reimbursement Account and the balance of such proceeds shall be deposited
+in the Loan Proceeds Account for subsequent application to finance the purchase of
+Purchased Assets; (ii) a portion of any Loan may be retained in the Loan Proceeds
+Account so long as after giving effect thereto and to any purchase of Purchased Assets
+within one Business Day of deposit of such amount in the Loan Proceeds Account, the
+aggregate balance of cash and cash investments in the Collateral Account (including the
+Loan Proceeds Account and the Cash Collateral Account but excluding the Expense
+Reimbursement Account) shall not exceed $100,000,000; and (iii) no Loan may exceed
+an amount equal to (x) the aggregate amount required to finance purchases of Purchased
+Assets within one Business Day of the date of such Loan plus (y) $100,000,000 minus (z)
+the aggregate amount of cash and cash investments held in the Collateral Account
+(including the Cash Collateral Account and the Loan Proceeds Account but excluding the
+Expense Reimbursement Account). Any purchase of Purchased Assets contemplated by
+the foregoing shall be made pursuant to and in accordance with the Put Option
+Agreement without waiver or modification of any of the conditions to purchase set forth
+therein.
+Each Borrowing Request shall be deemed to constitute a representation and
+warranty by the Borrower on and as of the date thereof as to the matters specified in
+paragraphs (b), (c), (d) and (e) of this Section.
+18
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+ARTICLE 6
+AFFIRMATIVE COVENANTS
+The Borrower hereby agrees to:
+Section 6.01. Financial Statements. Furnish to each Lender and the Controlling
+Party:
+(a) as soon as available, but in any event within 120 days after the end of each
+fiscal year of the Borrower, a copy of the audited balance sheet of the Borrower as at the
+end of such year and the related audited statements of income and of cash flows for such
+year, reported on by an independent certified public accounting firm of nationally
+recognized standing; and
+(b) as soon as available, but in any event within 60 days after the end of each of
+the first three fiscal quarters of the Borrower, a copy of the unaudited balance sheet of the
+Borrower as at the end of such quarter and the related unaudited statements of income for
+such quarter, in each case excluding footnotes.
+Section 6.02. Other Information. Furnish to each Lender, the Controlling Party
+and the Investment Manager:
+(a) promptly upon receipt thereof, duplicates or copies of all reports, notices,
+requests, demands, certificates, financial statements and other instruments and similar
+writings furnished to or received by the Borrower (i) under each Transaction Document
+and (ii) relating to any TALF Loan or any of the Collateral; provided, that the
+Subordinated Lender shall not be entitled to receive information concerning the identity
+of any borrower of any TALF Loan pursuant to this Section 6.02(a) (and the Borrower
+shall not provide to the Subordinated Lender any such information provided to it pursuant
+to this Section 6.02(a)); and
+(b) promptly, such additional financial and other information as either Lender
+or the Controlling Party, as the case may be, may from time to time reasonably request
+(in the case of the Subordinated Lender, other than information concerning the identity of
+any borrower of any TALF Loan).
+Section 6.03. Payment of Obligations. Subject to the limitations set forth in the
+Waterfall, pay, discharge or otherwise satisfy at or before maturity or before they become
+delinquent, as the case may be, all its material obligations of whatever nature, except
+where the amount or validity thereof is currently being contested in good faith by
+appropriate proceedings and reserves in conformity with GAAP with respect thereto have
+been provided on the books of the Borrower.
+Section 6.04. Maintenance of Existence; Compliance. (a) (i) Preserve, renew and
+keep in full force and effect its organizational existence and (ii) take all reasonable action
+to maintain all rights, privileges and franchises necessary or desirable in the normal
+19
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+conduct of its business; (b) comply with all material Requirements of Law and (c)
+punctually perform and observe all of its obligations and agreements contained in the
+Transaction Documents to which it is a party (it being understood that such performance
+or observance may be undertaken by the Administrator or the Collateral Agent on the
+Borrower’s behalf). The Borrower may contract with other Persons to assist it in
+performing its duties under the Transaction Documents and its other Contractual
+Obligations, and any performance of such duties by a Person identified to the Lenders
+and the Controlling Party shall be deemed to be action taken by the Borrower. Initially,
+the Borrower has contracted with the Administrator and the Collateral Agent to assist the
+Borrower in performing its duties under the Transaction Documents.
+Section 6.05. Inspection of Property; Books and Records; Discussions. (a) Keep
+proper books of records and account in which full, true and correct entries in conformity
+with GAAP and all Requirements of Law shall be made of all dealings and transactions
+in relation to its business and activities and (b) permit any officers, employees, agents,
+representatives or third-party contractor designated by the Controlling Party, any Lender
+or the Investment Manager to visit, audit and inspect the Borrower’s financial records,
+collateral and properties from time to time during normal business hours as requested and
+to make extracts from and copies of such financial records, and permit any Person
+designated by the Controlling Party or any Lender to discuss the affairs, finances and
+condition of the Borrower with the Managing Member, the Administrator and the
+Borrower’s independent certified public accountants; provided, that the Borrower shall
+not be required to disclose (or to permit the disclosure of) any information to the extent
+setting forth the unredacted identities of the borrowers of TALF Loans pursuant to this
+Section 6.05.
+Section 6.06. Notices. Promptly give notice to each Lender, the Controlling
+Party and the Investment Manager of:
+(a) the occurrence of any Default or Event of Default;
+(b) any (i) default or event of default under any material Contractual Obligation
+of the Borrower or (ii) material litigation, investigation or proceeding affecting the
+Borrower, including any litigation, investigation or proceeding (x) in which injunctive or
+similar relief is sought or (y) which relates to any Transaction Document; and
+(c) any development or event that has had or could reasonably be expected to
+have a Material Adverse Effect.
+Each notice pursuant to this Section 6.06 shall be accompanied by a statement of a
+Responsible Officer of the Administrator setting forth details of the occurrence referred
+to therein and stating what action the Borrower proposes to take with respect thereto.
+Section 6.07. Deposits in Collateral Account; Proceeds.
+20
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+(a) Cause (i) $15,750,000 of the proceeds of the Subordinated Loan borrowed
+on the Closing Date to be deposited in the Expense Reimbursement Account and (ii) (x)
+$84,250,000 of the proceeds of the Subordinated Loan borrowed on the Closing Date and
+(y) all proceeds of other Loans that are not required to be applied on the date of
+borrowing to effect Purchases to be deposited in the Loan Proceeds Account.
+(b) Cause all amounts due and to become due to the Borrower under or in
+connection with the Collateral or otherwise constituting Proceeds to be paid directly to
+the Collateral Agent for deposit into the Collateral Account.
+Section 6.08. Third Party Contracts. Cause each party to any Transaction
+Document with the Borrower (other than ordinary course trading contracts or agreements)
+to covenant and agree in such contract that such party will not at any time prior to a year
+and a day after all of the Obligations have been paid in full (a) commence or institute
+against the Borrower or join with or facilitate any other Person in commencing or
+instituting against the Borrower, any bankruptcy, reorganization, arrangement,
+readjustment of debt, dissolution, receivership, insolvency or liquidation proceedings, or
+other similar proceedings under any United States Federal or state, or other jurisdiction,
+bankruptcy or similar law or statute now or hereafter in effect or (b) participate in any
+assignment for benefit of creditors, compositions, or arrangements with respect to the
+Borrower’s debts.
+Section 6.09. Use of Proceeds of Loans. Use the proceeds of each Loan solely in
+accordance with Section 4.01(j).
+ARTICLE 7
+NEGATIVE COVENANTS
+The Borrower hereby agrees not to, unless it shall have received the prior written
+consent of, or otherwise been directed to do so in writing by the Controlling Party and the
+Subordinated Lender:
+Section 7.01. Indebtedness. Create, issue, incur, assume, become liable in
+respect of or suffer to exist any Indebtedness, except (a) Indebtedness pursuant to any
+Transaction Document and (b) any liabilities contemplated by this Agreement or any
+other Transaction Document.
+Section 7.02. Liens. Create, incur, assume or suffer to exist any Lien upon any of
+its property, assets or revenues, whether now owned or hereafter acquired, or assign or
+otherwise convey or encumber any existing or future right to receive any income or
+payments, except for Liens created pursuant to the Security Documents and Permitted
+Liens.
+Section 7.03. Fundamental Changes. Enter into any merger, consolidation or
+amalgamation, or liquidate, wind up or dissolve itself (or suffer any liquidation or
+21
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+dissolution), or Dispose of all or substantially all of its property or business; provided that
+the Borrower may be liquidated, wound up, dissolved or all or substantially all of its
+property or business Disposed of in accordance with an Approved Disposition Plan, so
+long as the proceeds of such Disposition, liquidation, wind-up or dissolution are
+distributed in accordance with the Waterfall.
+Section 7.04. Disposition of Property. Dispose of any of its property, whether
+now owned or hereafter acquired, except in accordance with an Approved Disposition
+Plan.
+Section 7.05. Restricted Payments. Declare or pay any dividend (whether in cash
+or in additional Capital Stock) on, or make any payment on account of, or set apart assets
+for a sinking or other analogous fund for, the purchase, redemption, defeasance,
+retirement or other acquisition of, any of its Capital Stock, whether now or hereafter
+outstanding, or make any other distribution in respect thereof, either directly or indirectly,
+whether in cash or property or in obligations of the Borrower except in accordance with
+the Waterfall.
+Section 7.06. Investments. Make any Investment, except pursuant to the Put
+Option Agreement or the Security Agreement.
+Section 7.07. Limitations on Payments and Expenditures. Make any payment to
+any Person (including pursuant to any Transaction Document) or make any expenditure
+(by long term or operating lease or otherwise) for any assets, in each case except (a) in
+accordance with the Waterfall, (b) out of the Expense Reimbursement Account, the Cash
+Collateral Account or the Loan Proceeds Account, in each case in accordance with
+Section 5 of the Security Agreement and (c) any Investments permitted under this
+Agreement.
+Section 7.08. Amendments to Transaction Documents. Amend or modify any of
+the Transaction Documents to which it is a party or any other agreement or instrument
+pursuant to which any of the Collateral has been created unless directed to do so in
+writing by the Controlling Party; provided that unless any such amendment or
+modification is required by any Requirement of Law, without the prior written consent of
+the Subordinated Lender (which consent shall not be unreasonably withheld or delayed),
+none of the Transaction Documents shall be amended or modified in a manner that would
+have a material adverse effect on the Subordinated Lender (or, if the Subordinated Lender
+is the Controlling Party, on the Senior Lender).
+Section 7.09. Limitations on Activities. Engage in any activity of any kind or
+enter into a transaction, indenture, mortgage, instrument, agreement, contract, lease or
+other undertaking which is not directly or indirectly related to the transactions
+contemplated by this Agreement and the other Transaction Documents.
+22
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+Section 7.10. ERISA. Establish, maintain, sponsor or contribute to or assume any
+liability under, or become obligated to establish, maintain, sponsor or contribute to or
+assume any liability under, any Plans.
+Section 7.11. Accounts. Open or maintain any deposit or securities account
+unless such deposit or securities account is included within the Collateral Account.
+Section 7.12. Formation of Subsidiaries. Form any new Subsidiary or invest in
+or acquire any new Subsidiary.
+ARTICLE 8
+EVENTS OF DEFAULT
+Section 8.01. Events of Default. The following events are “Events of Default”
+for purposes of this Agreement:
+(a) the Borrower shall fail to pay any principal of, or interest on, any Loan or
+other amount due hereunder or under any other Loan Document when the same shall
+become due, in each case in accordance with the Waterfall; or
+(b) any representation or warranty made or deemed made by the Borrower
+herein or in any other Loan Document or that is contained in any certificate, document or
+financial or other statement furnished by it at any time under or in connection with this
+Agreement or any other Loan Document shall prove to have been inaccurate on or as of
+the date made or deemed made, except to the extent that the inaccuracy of the foregoing
+could not, in the aggregate, reasonably be expected to have a Material Adverse Effect; or
+(c) the Borrower shall default in the observance or performance of any other
+covenant, agreement or undertaking contained in this Agreement or any other Transaction
+Document; except, with respect to any default under a Transaction Document other than a
+Loan Document or the Put Option Agreement, to the extent that such default could not
+reasonably be expected to have a Material Adverse Effect; or
+(d) (i) the Borrower shall commence any case, proceeding or other action (A)
+under any existing or future law of any jurisdiction, domestic or foreign, relating to
+bankruptcy, insolvency, reorganization or relief of debtors, seeking to have an order for
+relief entered with respect to it, or seeking to adjudicate it bankrupt or insolvent, or
+seeking reorganization, arrangement, adjustment, winding-up, liquidation, dissolution,
+composition or other relief with respect to it or its debts, or (B) seeking appointment of a
+receiver, trustee, custodian, conservator or other similar official for it or for all or any
+substantial part of its assets; or (ii) there shall be commenced against the Borrower any
+case, proceeding or other action of a nature referred to in clause (i) above that (A) results
+in the entry of an order for relief or any such adjudication or appointment or (B) remains
+undismissed or undischarged for a period of 90 days; or (iii) there shall be commenced
+against the Borrower any case, proceeding or other action seeking issuance of a warrant
+23
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+of attachment, execution, distraint or similar process against all or any substantial part of
+its assets that results in the entry of an order for any such relief that shall not have been
+vacated, discharged, or stayed or bonded pending appeal within 90 days from the entry
+thereof; or (iv) the Borrower shall take any action in furtherance of, or indicating its
+consent to, approval of, or acquiescence in, any of the acts set forth in clause (i), (ii), or
+(iii) above; or (v) the Borrower shall generally not, or shall be unable to, or shall admit in
+writing its inability to, pay its debts as they become due; or (vi) the Borrower shall make
+a general assignment for the benefit of its creditors; or
+(e) any of the Security Documents shall cease, for any reason, to be in full
+force and effect, or the Borrower shall so assert, or any Lien created by any of the
+Security Documents shall cease to be enforceable and of the same effect and priority
+purported to be created thereby,
+Section 8.02. Actionable Defaults. (a) An “Actionable Default” is (i) any Event
+of Default under Section 8.01(d) and (ii) any other Event of Default as to which either
+Lender shall have given notice to the Borrower and to the other Lender that such Event of
+Default is an Actionable Default for purposes of this Agreement; provided that in the
+event such notice is given by the Subordinated Lender, such notice shall be effective only
+upon expiration of (x) in the case of an Event of Default under Section 8.01(a), 10 days,
+(y) in the case of an Event of Default under Section 8.01(b) or 8.01(c) that arises from a
+breach of or the Borrower’s failure to comply with Section 4.01(k), 6.02, 6.05(b), 6.06,
+6.07, 7.02, 7.04 or 7.08, 20 days and (z) in the case of any other Event of Default, 30
+days (or, in the case of this clause (z), if the Borrower is diligently pursuing a cure of
+such Event of Default which is capable of cure, such longer period as may be required to
+effect such cure but not more than 90 days), in each case if such Event of Default is
+continuing at the end of such period.
+(b) Upon the occurrence of an Event of Default under Section 8.01(d), the
+Commitments shall automatically terminate and the Loans (with accrued interest thereon)
+and all other amounts owing under this Agreement and the other Loan Documents shall
+automatically become and be due and payable. Upon the occurrence of any other
+Actionable Default, either Lender may, by notice to the Borrower and the other Lender,
+declare the Loans made by it (with accrued interest thereon) and all other amounts owing
+to it under this Agreement and the other Loan Documents to be due and payable
+forthwith, whereupon the same shall immediately become due and payable. Except as
+expressly provided above in this Section, presentment, demand, protest and all other
+notices of any kind are hereby expressly waived by the Borrower.
+ARTICLE 9
+MISCELLANEOUS
+Section 9.01. Amendments and Waivers. Neither this Agreement nor any other
+Transaction Document, nor any provision hereof or thereof, may be waived, amended,
+modified or supplemented except pursuant to an agreement or agreements in writing
+24
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+entered into by the Borrower and the Lenders, other than such provisions hereof or
+thereof which by its express terms may be waived, amended or modified by the
+Controlling Party without consent of the Subordinated Lender; provided, that upon not
+less than five Business Days advance notice to the Subordinated Lender, any Transaction
+Documents that is not a Loan Document or the Put Option Agreement may be waived,
+amended, modified or supplemented without the consent of the Subordinated Lender,
+unless such waiver, amendment, modification or supplement could have a material
+adverse effect on the Subordinated Lender.
+Section 9.02. Notices. All notices, requests, consents and demands to or upon the
+respective parties hereto to be effective shall be in writing (including by telecopy or other
+electronic mail transmission) and, unless otherwise expressly provided herein, must be
+delivered by messenger, overnight courier service, telecopy or electronic mail, and shall
+be deemed to have been duly given or made when delivered, or notice by electronic mail
+transmission, or, in the case of telecopy notice, when received, addressed as follows or to
+such other recipient or address as may be hereafter notified by the respective parties
+hereto:
+Borrower: TALF LLC
+c/o Federal Reserve Bank of New York, as Managing Member
+33 Liberty Street
+New York, NY 10045
+with a copy to:
+Federal Reserve Bank of New York
+33 Liberty Street
+New York, NY 10045-0001
+and:
+Federal Reserve Bank of New York
+33 Liberty Street
+New York, NY 10045-0001
+25
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+26
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+Controlling Party
+(until the
+Subordinated
+Lender becomes
+the Controlling
+Party pursuant to
+the terms hereof): Federal Reserve Bank of New York
+33 Liberty Street
+New York, NY 10045-0001
+with a copy to:
+Federal Reserve Bank of New York
+33 Liberty Street
+New York, NY 10045-0001
+Senior Lender: Federal Reserve Bank of New York
+33 Liberty Street
+New York, NY 10045-0001
+with a copy to:
+Federal Reserve Bank of New York
+33 Liberty Street
+New York, NY 10045-0001
+27
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+Subordinated
+Lender: United States Department of the Treasury
+1500 Pennsylvania Avenue, NW
+Washington, DC 20220
+Attention: Chief Counsel, Office of Financial Stability
+Telecopy: (202) 927-9225
+Email: ofschiefcounselnotices@do.treas.gov
+Each other Lender: Such address and other information as shall have been
+provided by such Lender to each other Lender, the Controlling
+Party and the Borrower at the time of any assignment of Loans
+to such Lender.
+provided that any notice, request or demand to or upon the Lenders and the Controlling
+Party shall not be effective until received.
+Notices and other communications to the Lenders, the Controlling Party and the
+Borrower hereunder may be delivered or furnished by electronic communications.
+Section 9.03. No Waiver; Cumulative Remedies. No failure to exercise and no
+delay in exercising, on the part of either Lender, any right, remedy, power or privilege
+hereunder or under the other Loan Documents shall operate as a waiver thereof; nor shall
+any single or partial exercise of any right, remedy, power or privilege hereunder preclude
+any other or further exercise thereof or the exercise of any other right, remedy, power or
+privilege. The rights, remedies, powers and privileges herein provided are cumulative
+and not exclusive of any rights, remedies, powers and privileges provided by law.
+Section 9.04. Survival of Representations and Warranties. All representations
+and warranties made hereunder, in the other Loan Documents and in any document,
+certificate or statement delivered pursuant hereto or in connection herewith shall survive
+the execution and delivery of this Agreement and the making of the Loans hereunder.
+Section 9.05. Payment of Expenses and Taxes. The Borrower agrees (a) to pay or
+reimburse, in accordance with the Waterfall, each of the Lenders and the Controlling
+Party for all of its reasonable out- of- pocket costs and expenses incurred in connection
+with the development, preparation and execution of, and any amendment, supplement or
+modification to, this Agreement and the other Transaction Documents and any other
+documents prepared in connection herewith or therewith (other than those agreements
+documenting the non-recourse term loan facility to be made available by Federal Reserve
+Bank of New York in connection with its Term Asset-Backed Securities Loan Facility),
+and the consummation and administration of the transactions contemplated hereby and
+thereby, including the reasonable fees and disbursements of counsel to each of the
+Lenders and the Controlling Party and filing and recording fees and expenses; provided,
+that the aggregate amount to be reimbursed by the Borrower pursuant to this clause (a) in
+respect of out- of- pocket costs and expenses incurred in connection with (1) the
+formation of the Borrower, (2) the development, preparation and execution of the
+28
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+Transaction Documents and any document prepared in connection therewith in the form
+executed on the Closing Date, (3) the consummation of the transactions contemplated
+hereby on the Closing Date and (4) recording fees, filing fees and taxes of the type set
+forth in clause (c) paid in connection with the Transaction Documents executed on the
+Closing Date shall not exceed $750,000, (b) to pay or reimburse, in accordance with the
+Waterfall, each of the Lenders and the Controlling Party for all their respective
+reasonable costs and expenses incurred in connection with the enforcement or
+preservation of any rights under this Agreement, the other Transaction Documents and
+any such other documents, including the reasonable fees and disbursements of counsel to
+each of the Lenders and the Controlling Party, (c) to pay, indemnify, and hold each of the
+Lenders and the Controlling Party and their respective Related Parties harmless from, any
+and all recording and filing fees and any and all liabilities with respect to, or resulting
+from any delay in paying, stamp, excise and other taxes (other than those of the nature of
+an income tax), if any, that may be payable or determined to be payable in connection
+with the execution and delivery of, or consummation or administration of any of the
+transactions contemplated by, or any amendment, supplement and modification of, or any
+waiver or consent under or in respect of, this Agreement, the other Transaction
+Documents and any such other documents and (d) to pay, indemnify, and hold each of the
+Lenders and the Controlling Party and their respective Related Parties (each, an
+“Indemnitee”) harmless and defend them from and against any and all other liabilities,
+obligations, losses, damages, penalties, actions, judgments, suits, costs, expenses
+(including, subject to the second succeeding proviso, the reasonable fees and
+disbursements of legal counsel) or disbursements of any kind or nature whatsoever with
+respect to the execution, delivery, enforcement, performance and administration of this
+Agreement, the other Transaction Documents and any such other documents, including
+any of the foregoing relating to the use of proceeds of the Loans (all the foregoing in this
+clause (d), collectively, the “Indemnified Liabilities”); provided that the Borrower shall
+have no obligation hereunder to any Indemnitee with respect to Indemnified Liabilities to
+the extent such Indemnified Liabilities are found by a final and nonappealable decision of
+a court of competent jurisdiction to have resulted from the gross negligence, bad faith or
+willful misconduct of such Indemnitee; provided, further, that the Borrower shall not be
+obligated to pay, indemnify or hold harmless any Indemnitee if (i) such Indemnitee does
+not provide reasonably prompt notice to the Borrower (with a copy to the Controlling
+Party) of any claim for which indemnification is sought; provided that the failure to
+provide notice shall only limit the indemnification provided hereby to the extent of any
+incremental expense or actual prejudice as a result of such failure or (ii) makes any
+admissions of liability or incurs any significant expenses after receiving actual written
+notice of the claim, or agree to any settlement without the written consent of the
+Borrower, which consent shall not be unreasonably withheld. The Indemnitee may, in its
+sole discretion, and at its expense, control the defense of the claim including, without
+limitation, designating counsel for such Indemnitee (which counsel shall be reasonably
+satisfactory to the Borrower) controlling all negotiations, litigation, arbitration,
+settlements, compromises and appeals of any claim; provided that (i) the Indemnitee may
+not agree to any settlement involving any Indemnitee without the prior written consent of
+the Borrower and (ii) the Borrower shall engage and pay the reasonable expenses of
+29
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+separate counsel for the Indemnitee to the extent that the interests of the Indemnitee are
+in conflict with those of the Borrower. The Borrower shall be responsible to pay the
+reasonable fees of such separate legal counsel if such a conflict exists. All amounts due
+under this Section 9.05 shall be payable in accordance with the Waterfall. In order to be
+paid such amounts on any particular Payment Date in respect of any losses, claims,
+damages, liabilities or related expenses, in each case incurred no later than two Business
+Days prior to the Payment Determination Date immediately preceding such Payment
+Date, the request for payment under this Section 9.05 must be received by the Borrower,
+the Collateral Agent and the Administrator no later than such Payment Determination
+Date. The agreements in this Section 9.05 shall survive repayment of the Loans and all
+other amounts payable hereunder.
+Section 9.06. Successors and Assigns; Participations and Assignments. The
+provisions of this Agreement shall be binding upon and inure to the benefit of the parties
+hereto and their respective successors and assigns permitted hereby, except that (1) the
+Borrower may not assign or otherwise transfer (including through participation) any of its
+rights or obligations hereunder without the prior written consent of each Lender and the
+Controlling Party (and any attempted assignment or transfer by the Borrower without
+such consent shall be null and void), (2) the Subordinated Lender may not assign or
+otherwise transfer (including through participation) any of its rights or obligations
+hereunder without the prior written consent of Federal Reserve Bank of New York (and
+any attempted assignment or transfer by the Subordinated Lender without such consent
+shall be null and void), (3) the Senior Lender may not assign or otherwise transfer
+(including through participation) any of its obligations or rights hereunder without the
+prior written consent of the Subordinated Lender (and any attempted assignment or
+transfer by the Senior Lender without such consent shall be null and void), (4) the
+Controlling Party may not assign or otherwise transfer (including through participation)
+any of its rights or obligations hereunder without the prior written consent of the
+Subordinated Lender (and any attempted assignment or transfer by the Controlling Party
+without such consent shall be null and void) and (v) Federal Reserve Bank of New York
+may not assign or otherwise transfer (including through participation) any of its rights or
+obligations as Managing Member or its Membership Interest in Borrower without the
+prior written consent of the Subordinated Lender (and any attempted assignment or
+transfer by Federal Reserve Bank of New York without such consent shall be null and
+void). All assignments permitted hereunder shall be effected pursuant to documentation
+reasonably satisfactory to the Controlling Party. From and after the date of effectiveness
+of any assignment of the rights and obligations of a Lender hereunder, the assignee
+thereunder shall be a party hereto and have the rights and obligations of the assigning
+Lender under this Agreement (to the extent of the interest so assigned) and the other Loan
+Documents, and the assigning Lender thereunder shall be released from its obligations
+under this Agreement (to the extent of the interest so assigned) and, to the extent the
+entire amount of its Loans have been assigned or transferred, such Lender shall cease to
+be a party hereto but shall continue to be entitled to the benefits of Section 9.05.
+Notwithstanding the foregoing, at no time shall there be more than 75 Lenders. Any
+30
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+assignment or transfer by a Lender or the Controlling Party of rights or obligations under
+this Agreement that does not comply with this Section 9.06 shall be null and void.
+Section 9.07. Subordination. (a) All Obligations owing to the Subordinated
+Lender hereunder and under the other Loan Documents (including in respect of principal
+and interest (including Contingent Interest) on the Subordinated Loans) (subject to
+subsection (p) below, collectively, the “Junior Debt”) are subordinate and junior in right
+of payment to all the Obligations owing to the Senior Lender hereunder and under the
+other Loan Documents (including in respect of principal and interest on the Senior Loans,
+but excluding the Contingent Interest) (subject to subsection (p) below, collectively, the
+“Senior Debt”) to the extent and in the manner provided herein and in the Security
+Agreement.
+(b) The Borrower shall not, directly, or indirectly, make or agree to make any
+payment (in cash or property, by set-off or otherwise), direct or indirect, except in
+accordance with the Waterfall.
+(c) Upon (i) any acceleration of the principal amount due on any Junior Debt or
+(ii) any payment or distribution of assets of the Borrower of any kind or character,
+whether in cash, property or securities, to creditors upon any dissolution or winding up or
+total or partial liquidation or reorganization of the Borrower, whether voluntary or
+involuntary or in bankruptcy, insolvency, receivership or other statutory or common law
+proceedings or arrangements, then and in any such event all principal and interest and all
+other amounts due or to become due upon the Senior Debt shall first be paid in full in
+cash before the Subordinated Lender shall be entitled to retain any assets so paid or
+distributed in respect of the Junior Debt (for principal, interest or otherwise); and, upon
+any such dissolution or winding up or liquidation or reorganization, any payment or
+distribution of assets of the Borrower of any kind or character, whether in cash, property
+or securities, to which the Subordinated Lender would be entitled, except as otherwise
+provided herein, shall be paid by the Borrower or by any receiver, trustee in bankruptcy,
+liquidating trustee, agent or other Person making such payment or distribution, or by the
+Subordinated Lender if received by them, to the Collateral Agent for distribution to the
+Senior Lender, to the extent necessary to pay all Senior Debt in full in cash, after giving
+effect to any concurrent payment or distribution to or for the Senior Lender, before any
+payment or distribution is made to the Subordinated Lender.
+(d) Until the Senior Debt shall have been paid in full in cash, the Subordinated
+Lender irrevocably authorizes and empowers (without imposing any obligation on) the
+Senior Lender and its representatives, under the circumstances set forth in paragraph (c)
+above, to demand, sue for, collect and receive every such payment or distribution
+described therein and give acquittance therefor and to file claims and proofs of claims in
+any statutory or nonstatutory proceeding. The Subordinated Lender shall execute and
+deliver to the Senior Lender and its representatives all such further instruments
+confirming the foregoing authorization, and all such powers of attorney, proofs of claim,
+assignments of claim and other instruments, and shall take all such other action as may be
+31
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+requested by the Senior Lender or its representatives in order to enable the Senior Lender
+to enforce all claims upon or in respect of the Junior Debt.
+(e) Until the Senior Debt shall have been paid in full in cash, should any
+payment or distribution be collected or received by the Subordinated Lender, the
+Subordinated Lender shall forthwith turn over the same to the Collateral Agent in the
+form received (except for the endorsement or the assignment of the Subordinated Lender
+when necessary) and, until so turned over, the same shall be held in trust by the
+Subordinated Lender as the property of the Senior Lender.
+(f) The Subordinated Lender shall not, without the prior written consent of the
+Controlling Party, institute any proceedings to enforce, the Junior Debt until the Senior
+Debt is paid in full in cash. For the avoidance of doubt, no payments may be made by the
+Borrower in respect of the Junior Debt except as permitted by the Waterfall.
+(g) Until the Senior Debt shall have been paid in full in cash, the Subordinated
+Lender agrees that it will not, without the prior written consent of the Controlling Party,
+commence or join with or facilitate any other Person in commencing any proceeding
+against the Borrower or any other Person under any bankruptcy, reorganization,
+readjustment of debt, dissolution, receivership, liquidation or insolvency law or statute
+now or hereafter in effect in any jurisdiction, nor shall the Subordinated Lender, without
+the prior written consent of the Controlling Party participate in any assignment for the
+benefit of creditors, compositions, or arrangements with respect to the Borrower’s debts.
+(h) Subject to the payment in full in cash of all Senior Debt, the Subordinated
+Lender shall be subrogated to the rights of the Senior Lender to receive payments or
+distributions of assets of the Borrower made on the Senior Debt until the Junior Debt
+shall be paid in full in cash.
+(i) The above provisions are not intended to impair as between the Borrower,
+its creditors other than the Senior Lender, and the Subordinated Lender, the obligation of
+the Borrower, which is absolute and unconditional, to pay to the Subordinated Lender the
+Subordinated Loans, as and when the same shall become due and payable in accordance
+with its terms, principal and interest thereon, subject to the rights of the Senior Lender as
+provided in the above provisions, or to affect the relative rights of the Subordinated
+Lender and other creditors of the Borrower, other than the Senior Lender.
+(j) Application of the foregoing provisions to the Junior Debt, the
+subordination effected thereby and the rights of the Senior Lender shall not be affected by
+(i) any permitted amendment of or addition or supplement to this Agreement or any other
+Loan Document or any Senior Debt or any instrument or agreement relating thereto or
+providing collateral security for any Senior Debt, (ii) any exercise or non-exercise of any
+right, power or remedy under or in respect of this Agreement or any other Loan
+Document or any Senior Debt or any instrument or agreement relating thereto, or any
+release of any collateral securing any Senior Debt, or (iii) any permitted waiver, consent,
+release, indulgence, extension, renewal, modification, delay or any other action, inaction
+32
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+or omission in respect of this Agreement or any Security Document or any Senior Debt or
+any instrument or agreement relating thereto or providing collateral security for any
+Senior Debt; in each case whether or not the Subordinated Lender shall have had notice
+or knowledge of any of the foregoing.
+(k) Upon any payment or distribution of assets of the Borrower, the
+Subordinated Lender shall be entitled to rely upon any order or decree entered by any
+court of competent jurisdiction in which an insolvency, bankruptcy, receivership,
+liquidation, reorganization, dissolution, winding up or similar case or proceeding is
+pending, or a certificate of the trustee in bankruptcy, receiver, liquidating trustee,
+custodian, assignee for the benefit of creditors, agent or other Person making such
+payment or distribution, delivered to the Subordinated Lender, for the purpose of
+ascertaining the Persons entitled to participate in such payment or distribution, the Senior
+Lender and other Indebtedness of the Borrower, the amount thereof or payable thereon,
+the amount or amounts paid or distributed thereon and all other facts pertinent thereto.
+(l) The Subordinated Lender hereby waives notice of or proof of reliance by
+the Senior Lender upon the provisions hereof, and the Senior Debt shall conclusively be
+deemed to have been created, contracted, incurred or maintained in reliance upon the
+provisions hereof.
+(m) The Borrower hereby waives diligence, presentment, demand, protest and
+notice of any kind whatsoever. The non-exercise by the Controlling Party or the
+Collateral Agent of any of its rights hereunder or under any Security Document in any
+particular instance shall not constitute a waiver thereof in that or any subsequent instance.
+(n) The subordination provisions contained herein are for the benefit of the
+Senior Lender and its successors and assigns and may not be rescinded or cancelled or
+modified in any way without the prior written consent of the Controlling Party.
+(o) Notwithstanding any other provision of this Section 9.07, nothing in this
+Section 9.07 shall in any manner be deemed or interpreted so as to restrict any payment
+to the Subordinated Lender otherwise authorized by the Waterfall.
+(p) Consistent with the Waterfall, interest on the Senior Debt is senior only to
+interest on the Junior Debt and not to principal of the Junior Debt.
+Section 9.08. Counterparts. This Agreement may be executed by one or more of
+the parties to this Agreement on any number of separate counterparts, and all of said
+counterparts taken together shall be deemed to constitute one and the same instrument.
+Delivery of an executed signature page of this Agreement by email or facsimile
+transmission shall be effective as delivery of a manually executed counterpart hereof. A
+set of the copies of this Agreement signed by all the parties shall be lodged with the
+Borrower, each Lender and the Controlling Party.
+33
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+Section 9.09. Severability. Any provision of this Agreement that is prohibited or
+unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent
+of such prohibition or unenforceability without invalidating the remaining provisions
+hereof, and any such prohibition or unenforceability in any jurisdiction shall not
+invalidate or render unenforceable such provision in any other jurisdiction.
+Section 9.10. Integration. This Agreement and the other Transaction Documents
+represent the entire agreement of the Borrower, the Lenders and the Controlling Party
+with respect to the subject matter hereof and thereof, and there are no promises,
+undertakings, representations or warranties by either Lender or the Controlling Party
+relative to the subject matter hereof not expressly set forth or referred to herein or in the
+other Transaction Documents.
+Section 9.11. GOVERNING LAW. THIS AGREEMENT WILL BE
+GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE FEDERAL
+LAW OF THE UNITED STATES IF AND TO THE EXTENT SUCH LAW IS
+APPLICABLE, AND OTHERWISE IN ACCORDANCE WITH THE LAWS OF
+THE STATE OF NEW YORK APPLICABLE TO CONTRACTS MADE AND TO
+BE PERFORMED ENTIRELY WITHIN SUCH STATE.
+Section 9.12. Submission to Jurisdiction; Waivers. The Borrower hereby
+irrevocably and unconditionally:
+(a) submits for itself and its property in any legal action or proceeding relating
+to this Agreement and the other Loan Documents to which it is a party, or for recognition
+and enforcement of any judgment in respect thereof, to the exclusive jurisdiction of (i)
+the courts of the State of New York located in the Borough of Manhattan in New York
+City, and appellate courts thereof, or (ii) the courts of the United States for the Southern
+District of New York, and appellate courts thereof;
+(b) consents that any such action or proceeding may be brought only in such
+courts and waives any objection that it may now or hereafter have to the venue of any
+such action or proceeding in any such court or that such action or proceeding was brought
+in an inconvenient court and agrees not to plead or claim the same;
+(c) agrees that service of process in any such action or proceeding may be
+effected by mailing a copy thereof by registered or certified mail (or any substantially
+similar form of mail), postage prepaid, to the Borrower at its address set forth in Section
+9.02 or at such other address of which the Lenders or the Controlling Party shall have
+been notified pursuant thereto;
+(d) agrees that nothing herein shall affect the right to effect service of process
+in any other manner permitted by law;
+34
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+(e) agrees that a final judgment in any such action or proceeding shall be
+conclusive and may be enforced in another jurisdiction by suit on the judgment or in any
+other matter provided by law; and
+(f) waives, to the maximum extent not prohibited by law, any right it may have
+to claim or recover in any legal action or proceeding any special, indirect, exemplary,
+punitive or consequential damages of any kind whatsoever (including for lost profits).
+Section 9.13. Acknowledgements. The Borrower hereby acknowledges that:
+(a) none of the Lenders nor the Controlling Party has any fiduciary relationship
+with or duty to the Borrower arising out of or in connection with this Agreement or any
+of the Transaction Documents, and the relationship between the Lenders and the
+Controlling Party, on one hand, and the Borrower, on the other hand, in connection
+herewith or therewith is solely that of debtor and creditor; and
+(b) no joint venture is created hereby or by the other Transaction Documents or
+otherwise exists by virtue of the transactions contemplated hereby among the Lenders
+and the Controlling Party or among the Borrower and the Lenders and the Controlling
+Party.
+Section 9.14. Confidentiality. The Lenders agree to keep confidential all non-
+public information provided to them by the Borrower (or the Administrator on behalf of
+the Borrower), the Collateral Agent, the Investment Manager, the Controlling Party or
+any other Person pursuant to or in connection with this Agreement, the other Transaction
+Documents or the MLSA; provided that nothing herein shall prevent the Lenders from
+disclosing any such information: (a) to its employees, directors, agents, attorneys,
+accountants and other professional advisors or those of any of its affiliates who have a
+need to know such information (collectively, its “Representatives”), (b) in response to
+any order, subpoena or other form of legal process issued by any court, administrative,
+legislative, regulatory or governmental body, or by the Special Inspector General of the
+Troubled Asset Relief Program to the extent such order, subpoena or other legal process
+is authorized by EESA or by other applicable law, or by any other person purporting to
+have authority to subpoena or otherwise request such information, or as otherwise
+required by law, (c) that has already been publicly disclosed other than by the Lenders or
+any of their Representatives in violation of this Section 9.14 or if agreed to by the
+Controlling Party in its sole discretion, (d) that the United States Department of the
+Treasury determines is required to be disclosed under EESA, or (e) if necessary to
+enforce their rights and remedies under this Agreement; provided further that pursuant to
+clauses (b) and (d) above, prior to any disclosure of such information, the Lenders shall
+notify the Borrower and the Controlling Party, unless legally prohibited from doing so, of
+any proposed disclosure as far in advance of such disclosure as practicable so that
+Borrower and/or the Controlling Party may seek a protective order or other appropriate
+remedy, and, upon the Borrower’s or the Controlling Party’s written request, the Lenders
+shall take all reasonable actions (in the case of information to be disclosed by the
+Subordinated Lender pursuant to clause (b) or (d) above, at the Controlling Party’s
+35
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+expense) to ensure that any information disclosed shall be accorded confidential
+treatment. The Lenders further agree that they shall be responsible for compliance by
+each of their Representatives and that their Representatives will be bound by the terms of
+this Section 9.14.
+Section 9.15. WAIVERS OF JURY TRIAL. THE BORROWER, THE
+LENDERS AND THE CONTROLLING PARTY IRREVOCABLY AND
+UNCONDITIONALLY WAIVE TRIAL BY JURY IN ANY LEGAL ACTION OR
+PROCEEDING RELATING TO THIS AGREEMENT OR ANY OTHER
+SECURITY DOCUMENT AND FOR ANY COUNTERCLAIM THEREIN.
+Section 9.16. Limited Recourse. Notwithstanding anything to the contrary
+contained in this Agreement and the other Transaction Documents, the obligations of the
+Borrower under this Agreement and all other Transaction Documents are solely the
+obligations of the Borrower and shall be payable solely to the extent of funds received by
+and available to the Borrower in accordance with the Security Agreement. No recourse
+shall be had for the payment of any amount owing in respect of any obligation of, or
+claim against, the Borrower arising out of or based upon this Agreement or any other
+Transaction Document against any holder of a membership interest, employee, officer or
+Affiliate thereof and, except as specifically provided herein and in the other Transaction
+Documents, no recourse shall be had for the payment of any amount owing in respect of
+any obligation of, or claim against, the Borrower arising out of or based upon this
+Agreement against the Administrator, the Investment Manager or any holder of the
+membership interests of the Borrower or any Related Party of any thereof; provided that
+the foregoing shall not relieve any such person or entity from any liability they might
+otherwise have as a result of willful misconduct, gross negligence or fraudulent actions
+taken or omissions by them or, in the case of the Administrator or the Investment
+Manager or any Related Party thereof, the foregoing or its negligence in the performance
+of its duties under the Administration Agreement or the Investment Manager Agreement,
+as the case may be. The provisions of this Section 9.16 shall survive the termination or
+expiration of this Agreement and the Obligations.
+Section 9.17. Certain Tax Matters. It is the intention of the parties that for U.S.
+federal income tax purposes the Borrower shall be treated as the owner of the Collateral.
+The terms of this Agreement and the other Transaction Documents shall be interpreted
+consistently with this intention and neither the Borrower nor any holder of either a Senior
+Loan or a Subordinated Loan shall take a contrary position for any tax purpose, except as
+required by law. No election under Treasury Regulation Section 301.7701-3 shall be
+made that the Borrower be classified as a corporation.
+Section 9.18. Additional Inspection Rights. At all times while any Subordinated
+Loans are outstanding, each of the Borrower and the Managing Member (solely in its
+capacity as such) shall permit (i) the Subordinated Lender and its agents, consultants,
+contractors and advisors, (ii) the Special Inspector General of the Troubled Asset Relief
+Program, and (iii) the Comptroller General of the United States access to personnel and
+any books, papers, records or other data (other than any of the foregoing to the extent
+36
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+containing unredacted information regarding the identities of the borrowers of TALF
+Loans) delivered to it pursuant to the Transaction Documents or otherwise in its
+possession, custody or control (in the case of the Managing Member, solely in its
+capacity as such), in each case to the extent relevant to ascertaining compliance with the
+terms and conditions set forth in the Loan Documents, during normal business hours and
+upon reasonable notice to the Borrower or the Managing Member, as the case may be;
+provided that prior to disclosing any information pursuant to clause (i), (ii) or (iii), the
+Subordinated Lender, the Special Inspector General of the Troubled Asset Relief
+Program and the Comptroller General of the United States shall have agreed, with respect
+to documents obtained under this agreement in furtherance of their respective functions,
+to follow applicable law and regulation (and the applicable customary policies and
+procedures, including those for inspectors general) regarding the dissemination of
+confidential materials, including redacting confidential information from the public
+version of its reports, as appropriate, and soliciting input from the Borrower as to
+information that should be afforded confidentiality. The Subordinated Lender represents
+that it has been informed by the Special Inspector General of the Troubled Asset Relief
+Program and the Comptroller General of the United States that they, before making any
+request for access or information pursuant to their oversight and audit functions, will
+establish a protocol to avoid, to the extent reasonably possible, duplicative requests.
+Nothing in this Section 9.18 shall be construed to limit the authority that the Special
+Inspector General of the Troubled Asset Relief Program or the Comptroller General of
+the United States have under law.
+Section 9.19. Authority for Subordinated Loan Commitment. The Borrower, the
+Senior Lender and the Subordinated Lender acknowledge and agree that the Subordinated
+Loan Commitment is hereby made by the Subordinated Lender pursuant to the authority
+granted to it by and under EESA.
+37
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+
+
+
+
+
+
+
+
+Exhibit A—Form of Administration Agreement
+Exhibit A – Page 1
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+Exhibit B—Form of Borrowing Request
+Dated as of [ ]
+Pursuant to Section 2.02 of the Credit Agreement dated as of March 3,
+2009 (as amended, modified or supplemented from time to time, the “Credit
+Agreement”; the terms defined therein being used herein as therein defined) among
+TALF LLC, as Borrower, Federal Reserve Bank of New York, as Controlling Party,
+Federal Reserve Bank of New York, as Senior Lender, and United States Department of
+the Treasury, as Subordinated Lender, the undersigned [Full Name], [Title], of the
+Managing Member of TALF LLC, hereby requests a drawdown under the [Senior Loan
+Commitment] [Subordinated Loan Commitment] on behalf of the Borrower as follows:
+1. The proposed Loan is a [Senior Loan] [Subordinated Loan].
+2. The proposed [Senior Loan] [Subordinated Loan] date is
+________________________ (or if that day is not a Business Day, the
+next Business Day).
+3. The aggregate principal amount requested is $____________
+4. Each condition specified in Section 5.02 of the Credit Agreement is
+satisfied on the date of this Borrowing Request.
+Disbursement Instructions: [ ]
+[signature page follows]
+Exhibit B – Page 1
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+IN WITNESS WHEREOF, the undersigned has caused this Borrowing
+Request to be executed in its name and behalf by its duly authorized representative as of
+the date first above-written.
+TALF LLC, as Borrower
+By: FEDERAL RESERVE BANK OF NEW YORK, as
+its Managing Member
+By:
+Name:
+Title:
+Exhibit B - Page 2
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+Exhibit C—Form of Security Agreement
+Exhibit C – Page 1
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+Exhibit D—Form of Closing Certificate
+CLOSING CERTIFICATE
+Dated as of March 3, 2009
+Pursuant to Section 5.01(b) of the Credit Agreement dated as of
+March 3, 2009 (as amended, modified or supplemented from time to time, the
+“Credit Agreement”; the terms defined therein being used herein as therein
+defined) among TALF LLC, as Borrower, Federal Reserve Bank of New York, as
+Controlling Party, Federal Reserve Bank of New York, as Senior Lender, and
+United States Department of the Treasury, as Subordinated Lender, the
+undersigned , of the Managing Member of
+TALF LLC, hereby certifies on behalf of the Borrower as follows:
+1. Attached hereto as Annex 1 is a true and complete copy of a Certificate of
+Good Standing from the Borrower’s jurisdiction of organization dated as
+of a recent date prior to the date hereof.
+2. Attached hereto as Annex 2 is a true and complete copy of the Limited
+Liability Company Agreement (the “LLC Operating Agreement”) of the
+Borrower executed February 25, 2009 and effective as of February 4, 2009,
+and such LLC Operating Agreement has not been amended, repealed,
+modified or restated since February 25, 2009.
+3. Attached hereto as Annex 3 is a true and complete certified copy of the
+Certificate of Formation of the Borrower as in effect on the date hereof,
+and such Certificate of Formation has not been amended, repealed,
+modified or restated.
+4. Each of the individuals set forth below (a) is a duly appointed and acting
+officer of the Managing Member, holding the offices set forth opposite
+his/her name, and the signature set forth opposite his/her name is the
+signature of such persons as of the date hereof, and (b) is authorized on
+behalf of the Managing Member acting in any capacity, including as the
+sole Managing Member of the Borrower, to execute and deliver on behalf
+of the Borrower, and to cause the Borrower to perform its obligations
+under, each of the Transaction Documents to which it is a party.
+Exhibit D – Page 1
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+Name Title Signature
+[signature page follows]
+Exhibit D – Page 3
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+IN WITNESS WHEREOF, the undersigned has caused this Closing
+Certificate to be executed in its name and behalf by its duly authorized
+representative as of the date first above-written.
+TALF LLC, as Borrower
+By: Federal Reserve Bank of New York, as its
+Managing Member
+By:
+Exhibit D – Page 3
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
+
+Exhibit E—Form of Put Option Agreement
+Exhibit E – Page 1
+(NY) 07865/007/LLC/SPV.Credit.Agreement.doc
