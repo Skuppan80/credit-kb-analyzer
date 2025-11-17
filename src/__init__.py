@@ -10,6 +10,8 @@ from .pdf_extractor import PDFExtractor
 from .token_counter import TokenCounter
 from .embedding_generator import EmbeddingGenerator
 from .vector_store import VectorStore
+from .retriever import Retriever
+from .claude_extractor import ClaudeExtractor
 
 __all__ = [
     'BaseChunker',
@@ -21,4 +23,6 @@ __all__ = [
     'TokenCounter',
     'EmbeddingGenerator',
     'VectorStore',
+    'Retriever',
+    'ClaudeExtractor',
 ]
