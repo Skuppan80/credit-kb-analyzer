@@ -8,6 +8,8 @@ from .semantic_chunker import SemanticChunker
 from .hierarchical_chunker import HierarchicalChunker
 from .pdf_extractor import PDFExtractor
 from .token_counter import TokenCounter
+from .embedding_generator import EmbeddingGenerator
+from .vector_store import VectorStore
 
 __all__ = [
     'BaseChunker',
@@ -17,4 +19,6 @@ __all__ = [
     'HierarchicalChunker',
     'PDFExtractor',
     'TokenCounter',
+    'EmbeddingGenerator',
+    'VectorStore',
 ]
